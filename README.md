@@ -14,7 +14,14 @@ for adminsitrator, doctors
 <li>moments </li>
 
 </ul>
-
+ 
+![Screen Shot 2023-02-14 at 22 26 34](https://user-images.githubusercontent.com/25065262/218859398-158ba5de-5fde-4a93-8460-9b3b926486bf.png)
+![Screen Shot 2023-02-14 at 22 27 13](https://user-images.githubusercontent.com/25065262/218859408-39c2e19a-105a-4550-b980-e097a3c7d078.png)
+![Screen Shot 2023-02-14 at 22 27 42](https://user-images.githubusercontent.com/25065262/218859415-caa20290-8d79-4a98-8227-f5babaafbb8a.png)
+![Screen Shot 2023-02-14 at 22 28 11](https://user-images.githubusercontent.com/25065262/218859418-c3cbea30-e030-4499-be6c-b3f4c9c74b16.png)
+![Screen Shot 2023-02-14 at 22 29 03](https://user-images.githubusercontent.com/25065262/218859422-3f01142f-76b9-4604-b33c-1402b158804d.png)
+![Screen Shot 2023-02-14 at 22 29 48](https://user-images.githubusercontent.com/25065262/218859425-f0831478-1cf1-47fd-90d2-263236a616df.png)
+![Screen Shot 2023-02-14 at 22 35 47](https://user-images.githubusercontent.com/25065262/218859430-32aa05fe-9637-43c1-9742-265277800be4.png)
 
 # Getting Started with Create React App
 
