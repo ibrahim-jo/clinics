@@ -1,3 +1,21 @@
+# Booking Clinics
+
+## A DEMO PROJECT  made for the medical center to book a clinic fast and effectively 
+have many pages 
+for adminsitrator, doctors
+
+## technology  used  
+<ul>
+<li>google firebase </li>
+<li> javascript </li>
+<li> react js </li>
+<li> redux </li>
+<li> material ui</li>
+<li>moments </li>
+
+</ul>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
