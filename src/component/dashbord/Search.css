@@ -1,0 +1,15 @@
+.serch-container{
+    margin: 36xp auto;
+    width: 100%;
+    max-width: 800%;
+}
+.serch-lable{
+    position: relative;
+}
+
+.TextField{
+    width: 90%;
+    padding: 16px;
+    
+}
+
